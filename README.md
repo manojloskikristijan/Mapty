@@ -1,3 +1,3 @@
-#Mapty project
+# Mapty
 
 Running/cycling tracker application
